@@ -61,10 +61,12 @@ This project covers basic React concepts such as:
 
 Here are some screenshots of the stopwatch application:
 
-![Stopwatch Running](path_to_running_image)
-*Description: Screenshot of the stopwatch running.*
+![Stopwatch Running](https://github.com/mrkshreyash/stopwatch-using-react/blob/main/src/assets/outputs/start%20phase.png)
 
-![Stopwatch Stopped](path_to_stopped_image)
+*Description: Screenshot of the stopwatch at initial stage.*
+
+![Stopwatch Stopped](https://github.com/mrkshreyash/stopwatch-using-react/blob/main/src/assets/outputs/running%20phase.png)
+
 *Description: Screenshot of the stopwatch stopped.*
 
 ## Contributing
