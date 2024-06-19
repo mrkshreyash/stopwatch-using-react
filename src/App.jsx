@@ -4,7 +4,7 @@ import Display from "./Components/Display.jsx";
 import Controls from "./Components/Controls.jsx";
 
 function App() {
-  const [time, setTime] = useState(0);
+  const [time, setTime] = useState(3700);
   const [isRunning, setIsRunning] = useState(false);
 
   function handleStartstop() {
@@ -39,7 +39,7 @@ function App() {
         />
       </section>
 
-      <p>{isRunning ? "Running" : "Stopped"}</p>
+      {/* <p>{isRunning ? "Running" : "Stopped"}</p> */}
     </>
   );
 }
