@@ -17,7 +17,7 @@ Follow these instructions to set up and run the project on your local machine.
 ### Prerequisites
 
 - Node.js installed on your machine
-- Vite.js installed on your machine
+- Vite installed on your machine
 - npm as your package manager
 
 ### Installation
