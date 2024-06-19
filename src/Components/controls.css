@@ -1,0 +1,31 @@
+section.controls{
+    margin-top: 24px;
+
+    button{
+        width: 160px;
+        border-radius: 80px;
+        border: none;
+        margin: 0 12px;
+        padding: 8px 0;
+        cursor: pointer;
+        transition: all 0.5s;
+
+        &.reset{
+            background-color: #574262;
+            color: white;
+        }
+
+        &.start-stop{
+            background-color: #18f91f;
+
+            &.red{
+                background-color: red;
+                color: white;
+            }
+        }
+
+        &:hover{
+            box-shadow: 0px 0px 18px 3px #3e2d9f;
+        }
+    }
+}
