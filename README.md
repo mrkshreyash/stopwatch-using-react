@@ -67,7 +67,7 @@ Here are some screenshots of the stopwatch application:
 
 ![Stopwatch Stopped](https://github.com/mrkshreyash/stopwatch-using-react/blob/main/src/assets/outputs/running%20phase.png)
 
-*Description: Screenshot of the stopwatch stopped.*
+*Description: Screenshot of the running stopwatch.*
 
 ## Contributing
 
